@@ -1,5 +1,9 @@
-## Hi there 👋
+Olá sou o Everton Muniz Calhabeu
+Atuo na área de pesquisa e desenvolvimento de materais a mais de 20 anos e atualmente sou gerente LATAM da área.
 
+Cada vez mais interessado obtenção de informações com análise de dados para tomada de decisões.
+
+Iniciei recentemente alguns treinamentos na área, gosto muito de compartilhar conhecimentos e trabalhar de forma colaborativa.
 <!--
 **evcalha/evcalha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
