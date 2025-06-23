@@ -1,5 +1,5 @@
 Olá sou o Everton Muniz Calhabeu
-Atuo na área de pesquisa e desenvolvimento de materais a mais de 20 anos e atualmente sou gerente LATAM da área.
+Atuo departamento de pesquisa e desenvolvimento de materais a mais de 20 anos e atualmente sou gerente LATAM da área.
 
 Cada vez mais interessado obtenção de informações com análise de dados para tomada de decisões.
 
